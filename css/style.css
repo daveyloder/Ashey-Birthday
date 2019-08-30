@@ -1,9 +1,20 @@
 @charset "UTF-8";
-.masthead {
-  height: 100%;
-  min-height: 925px;
-  background-image: url("../img/jason-leung-Xaanw0s0pMk-unsplash.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+body, h1 {
+    font-family: "Indie Flower", cursive;
+}
+body, html {
+    height: 100%;
+	min-height: 400px;
+}
+.bgimg {
+    background-image: url("../img/dark-overlay.jpg");
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.bgimg2 {
+	background-image: url("../img/hamilton.jpg");
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
 }
